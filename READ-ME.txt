@@ -1,9 +1,11 @@
-  =>  Template Name    : Baker - Bakery Website Template
+=>  Author Website   : https://hridoy-jomadder.github.io/portfolio
 
-  =>  Template Link    : https://htmlcodex.com/bakery-website-template
+=>  Template Name    : Baker - Bakery Website Template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+=>  Template Link    : 
 
-  =>  Template Author  : HTML Codex
+=>  Template License : 
 
-  =>  Author Website   : https://htmlcodex.com
+=>  Template Author  : Hridoy Jomadder
+
+=>  Project-2 Website: https://hridoy-jomadder.github.io/Project-02
